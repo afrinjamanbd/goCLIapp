@@ -1,6 +1,4 @@
 /gobuildercli/logs
-gobuildercli/first_test.go
-gobuildercli/second_test.go
 gobuildercli/go.sum
 /cli-task-initail/go.sum
 /cli-task-initail/output.csv
